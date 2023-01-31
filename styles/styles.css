@@ -1,0 +1,38 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+body{
+    background-color: rgb(212, 212, 193);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0
+}
+header{
+    background-color: beige;
+}
+
+.name{
+    padding: 3%;
+}
+.Photo{
+    padding: 3%;
+}
+.Summary{
+    padding-left: 3%;
+
+}
+a:link {
+    text-decoration: none;
+    color: black;
+  }
+  a:visited {
+    text-decoration: none;
+    color: black;
+  }
+  a:hover {
+    text-decoration: underline;
+    color: darkorchid;
+  }
+  
+  #Experience{
+    padding: 3%;
+  }
